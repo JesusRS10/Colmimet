@@ -1,2 +1,0 @@
-# Colmimet
-APP movil
